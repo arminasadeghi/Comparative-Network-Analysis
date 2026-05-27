@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# OS and editor files
+.DS_Store
+.AppleDouble
+.LSOverride
+.vscode/
+*.code-workspace
+
+# Secrets
+.env
+
+# Project data (excluded from repository)
+Data/

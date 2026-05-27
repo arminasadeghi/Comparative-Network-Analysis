@@ -1,0 +1,8 @@
+jupyter
+matplotlib
+networkx
+numpy
+pandas
+seaborn
+contextily
+pyproj
